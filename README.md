@@ -1,1 +1,1 @@
-**ETC Chain**
+**myneTEC Chain**
