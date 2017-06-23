@@ -1,3 +1,1 @@
-ETC chain
-
-build on cryptonotefoundation code base
+**ETC Chain**
