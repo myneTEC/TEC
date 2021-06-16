@@ -1,6 +1,9 @@
 /**!4 corporate Identity!
+ GmbH & AG in Germany
+ ltd. in England
+ LLC and inc. in USA
  *Submitted for verification at Etherscan.io on 2019-07-09 via QQQ (powershares 4 trust issues and china based Poseidon Network)
- address: 0xe9a6499D2c5C7784A2CA9332872A5e7B46d1A677 (myneTEC owned zk-SNARK interlink)
+ address: 0xe9a6499D2c5C7784A2CA9332872A5e7B46d1A677 (myneTEC owned zk-SNARK interlink relevant address)
 */
 
 pragma solidity >=0.5.0;
