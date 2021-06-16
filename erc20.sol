@@ -1,5 +1,5 @@
 /**!4 corporate Identity verfification!
- -------------------------------------------------------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------------------------------------------------------------
  ---ID-HEADER_START                                        
                        __________ _____
  _   _ _   _ _  _  ___|_   _| __// ___/
@@ -9,11 +9,12 @@
       /_/
 
  GmbH & AG in Germany
- ltd. in England
+ Ltd. in UK and commonwealth
  LLC and inc. in USA
  ---ID-HEADER_END
- --------------------------------------------------------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------------------------------------------------------------
  *Submitted for verification at Etherscan.io on 2019-07-09 via QQQ (powershares 4 trust issues and china based Poseidon Network)
+ see: https://www.google.com/search?q=qqq+powershares+share+price and https://coinmarketcap.com/currencies/poseidon-network/
  address: 0xe9a6499D2c5C7784A2CA9332872A5e7B46d1A677 (myneTEC owned zk-SNARK interlink relevant address)
 */
 
