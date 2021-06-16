@@ -1,4 +1,4 @@
-/**
+/**!4 corporate Identity!
  *Submitted for verification at Etherscan.io on 2019-07-09 via QQQ (powershares 4 trust issues and china based Poseidon Network)
  address: 0xe9a6499D2c5C7784A2CA9332872A5e7B46d1A677 (myneTEC owned zk-SNARK interlink)
 */
