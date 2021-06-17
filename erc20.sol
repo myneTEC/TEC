@@ -16,6 +16,7 @@
  *Submitted for verification at Etherscan.io on 2019-07-09 via QQQ (powershares 4 trust issues and china based Poseidon Network)
  see: https://www.google.com/search?q=qqq+powershares+share+price and https://coinmarketcap.com/currencies/poseidon-network/
  address: 0xe9a6499D2c5C7784A2CA9332872A5e7B46d1A677 (myneTEC owned zk-SNARK interlink relevant address)
+ MetaMask link: 0x162bFe592bE5d1C7b001aB52951A367B9b25a428
 */
 
 pragma solidity >=0.5.0;
