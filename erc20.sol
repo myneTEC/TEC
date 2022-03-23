@@ -9,8 +9,8 @@
       /_/
 
  GmbH & AG in Germany (Hähnlehofstraße 47 88250 Weingarten BW)
- Ltd. in UK and commonwealth
- LLC and inc. in USA
+ Ltd. in UK and commonwealth (via Stormgain mining functionality contract
+ LLC and inc. in USA         https://app.stormgain.com/friend/BNS75368233)
  ---ID-HEADER_END
  ------------------------------------------------------------------------------------------------------------------------------------
  *Submitted for verification at Etherscan.io on 2019-07-09 via QQQ (powershares 4 trust issues and china based Poseidon Network)
