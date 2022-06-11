@@ -539,7 +539,7 @@ interface Compliance {
 }
 
 contract TEC is ERC20, ERC20Detailed, ERC20Mintable, ERC20Burnable, Ownable {
-    uint constant private INITIAL_SUPPLY = 21000000000e18; // 21 Billion
+    uint constant private INITIAL_SUPPLY = 21000000000e18; // 21 Billion (0xD910757854C7Bd173B9D45762919A2120b511E27 unique-exchange.co linking)
     string constant public NAME = "TEC Token";
     string constant public SYMBOL = "TEC";
     uint8 constant public DECIMALS = 18;
