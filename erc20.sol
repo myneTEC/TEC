@@ -13,10 +13,10 @@
  LLC and inc. in USA         https://app.stormgain.com/friend/BNS75368233)
  ---ID-HEADER_END
  ------------------------------------------------------------------------------------------------------------------------------------
- *Submitted for verification at Etherscan.io on 2019-07-09 via QQQ (powershares 4 trust issues and china based Poseidon Network)
- see: https://www.google.com/search?q=qqq+powershares+share+price and https://coinmarketcap.com/currencies/poseidon-network/
- address: 0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21  (myneTEC owned zk-SNARK interlink relevant address)     
- MetaMask link: 0x162bFe592bE5d1C7b001aB52951A367B9b25a428  (Hora linking:  address: 0xC64aB744B656d7561832bb0fa76c19CD6d58a65c)
+ *Submitted for verification at Etherscan.io on 23th june 2022 via 1inch contract
+ see: https://etherscan.io/address/0x1111111254fb6c44bac0bed2854e76f90643097d
+ coinbase wallet address link: 0x45ece78d2c7bac420d603e1f43Bed87b7C23Efe8  (myneTEC owned zk-SNARK interlink relevant address)     
+ MetaMask wallet address link: 0x162bFe592bE5d1C7b001aB52951A367B9b25a428  (Hora linking: 2 address: 0xC64aB744B656d7561832bb0fa76c19CD6d58a65c)
 */
 
 pragma solidity >=0.5.0;
