@@ -15,7 +15,7 @@
  ------------------------------------------------------------------------------------------------------------------------------------
  *Submitted for verification at Etherscan.io on 23th june 2022 via 1inch contract
  see: https://etherscan.io/address/0x1111111254fb6c44bac0bed2854e76f90643097d
- coinbase wallet address link: 0x45ece78d2c7bac420d603e1f43Bed87b7C23Efe8  (myneTEC owned zk-SNARK interlink relevant address)     
+ coinbase wallet address link: 0x45ece78d2c7bac420d603e1f43Bed87b7C23Efe8  (myneTEC owned interlink relevant address)     
  MetaMask wallet address link: 0x162bFe592bE5d1C7b001aB52951A367B9b25a428  (Hora linking: 2 address: 0xC64aB744B656d7561832bb0fa76c19CD6d58a65c)
 */
 
