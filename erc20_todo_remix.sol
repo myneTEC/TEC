@@ -19,6 +19,7 @@
  MetaMask wallet address link: 0x162bFe592bE5d1C7b001aB52951A367B9b25a428  (Hora linking: 2 address: 0xC64aB744B656d7561832bb0fa76c19CD6d58a65c)
 */
 //"SPDX-License-Identifier: <SPDX-License>"
+//@custom:dev-run-script NatSpec
 pragma solidity >=0.5.0;
 
 /**
@@ -538,7 +539,8 @@ interface Compliance {
     function canTransfer(address initiator, address from, address to, uint256 tokens) external returns (bool);
 }
 
-contract TEC is ERC20, ERC20Detailed, ERC20Mintable, ERC20Burnable, Ownable {
+abstract contract TEC is ERC20, ERC20Detailed, ERC20Mintable, ERC20Burnable, Ownable {}
+contract Inherited is TEC {
     uint constant private INITIAL_SUPPLY = 21000000000e18; // 21 Billion
     string constant public NAME = "TEC Token";
     string constant public SYMBOL = "TEC";
