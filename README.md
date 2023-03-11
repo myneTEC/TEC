@@ -9,6 +9,6 @@ https://app.ens.domains/name/mynetec.eth (domain)
 ---
 
 
-**DEVelopment gist 4 XP 4 interacting with other companies:**
+**DEVelopment gist 4 XP 4 interacting with other companies:** [sat. 11th March 2023]
 
 https://gist.github.com/Cr4shOv3rrid3/7a78d3039850923f800f80ab865cd93a
