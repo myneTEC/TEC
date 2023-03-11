@@ -6,7 +6,7 @@ root hashes 4 founding: https://bitaps.com/19jEpv853newmt3bvWQweWPkiTweV7oTqy
 
 https://app.ens.domains/name/mynetec.eth (domain)
 
-|-----------------------------------------------------------------------------------------|
+---
 
 
 **DEVelopment gist 4 XP 4 interacting with other companies:**
