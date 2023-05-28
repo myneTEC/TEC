@@ -17,8 +17,16 @@
  see: https://etherscan.io/address/0x1111111254fb6c44bac0bed2854e76f90643097d
  coinbase wallet address link: 0x45ece78d2c7bac420d603e1f43Bed87b7C23Efe8  (myneTEC owned interlink relevant address)     
  MetaMask wallet address link: 0x162bFe592bE5d1C7b001aB52951A367B9b25a428  (Hora linking: 2 address: 0xC64aB744B656d7561832bb0fa76c19CD6d58a65c)
- additional linking information:
- 0xafa85c97dee32a11ab62f5776545f96126b0113d (TECtonia link via Pancake swap v2) Pairs: 0x6034d1dc51066eff013e0ea97a165b090fa547de
+ additional swap linking information:
+ https://coinmarketcap.com/dexscan/bsc/0x6034d1dc51066eff013e0ea97a165b090fa547de/ (TECtonia) (20m supply)
+ https://coinmarketcap.com/dexscan/bsc/0x5cb35ec605729f3d10c774369f7da6869660c8e2/ (TECtonia) (10m supply)
+ https://coinmarketcap.com/dexscan/gnosis/0x98f6a05f0cf0a07c9cb988ee152f346b34d6b8da/ (Token Engineering Commons) (20m supply)
+ https://coinmarketcap.com/dexscan/gnosis/0x2769e63ebc6cf6e9803ed87aea125eb596a38f95/ (Token Engineering Commons) (1,760,273.29 supply)
+ https://coinmarketcap.com/dexscan/bsc/0xb34ad4c467f776ba30d276f9a9b97dee6513a08f/ (Elon link) (1m supply)
+ https://coinmarketcap.com/dexscan/bsc/0x1698aaf15fede18059d43ea85823604426ef5647/ (TEC) (19m supply)
+ https://coinmarketcap.com/dexscan/bsc/0x9f355b29aac904711d0ba2d8d1847efa7f2ca8cc/ (Torch echo coin) (2,1b supply)
+ https://coinmarketcap.com/dexscan/bsc/0x8edb981bac3bcd33c1f4c3b3af078a21c4edb231/ (TECTRADE) (100m supply)
+ https://coinmarketcap.com/dexscan/bsc/0xc12cc88bff9ce618d89afeb01e242a964fcd4b2b/ (The Eagle Coin) (50m supply)
 */
 
 pragma solidity >=0.5.0;
