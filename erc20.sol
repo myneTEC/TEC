@@ -17,6 +17,8 @@
  see: https://etherscan.io/address/0x1111111254fb6c44bac0bed2854e76f90643097d
  coinbase wallet address link: 0x45ece78d2c7bac420d603e1f43Bed87b7C23Efe8  (myneTEC owned interlink relevant address)     
  MetaMask wallet address link: 0x162bFe592bE5d1C7b001aB52951A367B9b25a428  (Hora linking: 2 address: 0xC64aB744B656d7561832bb0fa76c19CD6d58a65c)
+ additional linking information:
+ 0xafa85c97dee32a11ab62f5776545f96126b0113d (TECtonia link via Pancake swap v2) Pairs: 0x6034d1dc51066eff013e0ea97a165b090fa547de
 */
 
 pragma solidity >=0.5.0;
