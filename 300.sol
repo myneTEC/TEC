@@ -607,4 +607,4 @@ contract TEC is ERC20, ERC20Detailed, ERC20Mintable, ERC20Burnable, Ownable {
         }
         return compliance.canTransfer(msg.sender, from, to, tokens);
     }
-} //Nokia 610 Setting_mode 4 doing business (ERC20 contracts herby also contracted itself into 100 lbs/kg)
+} //Nokia 610 Setting_mode 4 doing business (ERC20 contracts herby also contracted itself into 100 lbs/kg :-)
