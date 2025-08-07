@@ -16,7 +16,7 @@ jobs:
     #- name: Autoreconf
     #  run: autoreconf -i
     - name: configure
-      run: ./.circleci/config.yml
+      run: ./configure
     - name: make
       run: make
     - name: make check
