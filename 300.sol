@@ -9,8 +9,8 @@
       /_/
 
  GmbH & AG in Germany Registernummer: HRB20132612 (Hähnlehofstraße 47 88250 Weingarten BW)
- Ltd. in UK and commonwealth (via Stormgain mining functionality contract
- LLC and inc. in USA         https://app.stormgain.com/friend/BNS75368233)
+ Ltd. in UK and commonwealth (via youhodler mining functionality contract
+ LLC and inc. in USA         https://www.youhodler.com/cloud-miner)
  ---ID-HEADER_END
  ------------------------------------------------------------------------------------------------------------------------------------
  *Submitted for verification at Etherscan.io on 23th june 2022 via 1inch contract
@@ -549,9 +549,9 @@ interface Compliance {
 }
 
 contract TEC is ERC20, ERC20Detailed, ERC20Mintable, ERC20Burnable, Ownable {
-    uint constant private INITIAL_SUPPLY = 21000000000e18; // 21 Billion
-    string constant public NAME = "TEC Token";
-    string constant public SYMBOL = "TEC";
+    uint constant private INITIAL_SUPPLY = 300; //limits the thing into that amount of people as well
+    string constant public NAME = "TEC_4_LIFTS";
+    string constant public SYMBOL = "T4L";
     uint8 constant public DECIMALS = 18;
 
     address constant internal ZERO_ADDRESS = address(0);
