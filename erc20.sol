@@ -552,7 +552,7 @@ contract TEC is ERC20, ERC20Detailed, ERC20Mintable, ERC20Burnable, Ownable {
     uint constant private INITIAL_SUPPLY = 21000000000e18; // 21 Billion
     string constant public NAME = "TEC Token";
     string constant public SYMBOL = "TEC";
-    uint8 constant public DECIMALS = 18;
+    uint8 constant public DECIMALS = 18; //relevancy: https://github.com/Cr4shOv3rrid3/atomspace/blob/dragon/opencog/atoms/value/Value.h
 
     address constant internal ZERO_ADDRESS = address(0);
     Compliance public compliance;
